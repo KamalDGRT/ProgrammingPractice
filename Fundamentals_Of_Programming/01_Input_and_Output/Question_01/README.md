@@ -12,4 +12,5 @@ Hello World
 
 ## Languages Used
 
+- ### [C](question_01.c)
 - ### [C++](question_01.cpp)
