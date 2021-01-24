@@ -15,3 +15,4 @@ Hello World
 - ### [C](question_01.c)
 - ### [C++](question_01.cpp)
 - ### [Java](Question_01.java)
+- ### [Python](question_01.py)
