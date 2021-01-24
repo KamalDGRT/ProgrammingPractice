@@ -12,6 +12,7 @@ Hello World
 
 ## Languages Used
 
+- ### [BASH](question_01.sh)
 - ### [C](question_01.c)
 - ### [C++](question_01.cpp)
 - ### [Dart](question_01.dart)
