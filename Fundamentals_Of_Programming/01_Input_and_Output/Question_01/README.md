@@ -15,4 +15,5 @@ Hello World
 - ### [C](question_01.c)
 - ### [C++](question_01.cpp)
 - ### [Java](Question_01.java)
+- ### [Kotlin](Question_01.kt)
 - ### [Python](question_01.py)
