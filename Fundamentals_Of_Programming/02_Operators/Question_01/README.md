@@ -59,4 +59,5 @@ Input consists of two integers. Output consist of integers
 
 ## Languages Used
 
+- ### [C](question_01.c)
 - ### [C++](question_01.cpp)
