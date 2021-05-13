@@ -1,4 +1,4 @@
-# Data mining
+# Data Mining
 
 In the Hogwarts University examinations conducted during
 the past 5 years, the toppers registration numbers were
